@@ -1,5 +1,5 @@
-# andreasbergstrm.github.io
-Andreas Bergström Data Science Portfolio page
+# Andreas Bergström Data Science Portfolio
+Project Portfolio
 # Project 1: Example with Regression
 * Could be anything, salary etc.
 * Feature engineering
