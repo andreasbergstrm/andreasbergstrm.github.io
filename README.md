@@ -1,5 +1,5 @@
-# Andreas Bergström Data Science Portfolio
-Project Portfolio
+# Data Science Projects
+
 # Project 1: Example with Regression
 * Could be anything, salary etc.
 * Feature engineering
