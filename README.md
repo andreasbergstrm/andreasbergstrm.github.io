@@ -1,4 +1,4 @@
-# Data Science Projects
+# Andreas Bergström Data Science Portfolio
 
 # [Project 1: Predicting Wine Quality: Project Overview](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
 * Data Cleaning
