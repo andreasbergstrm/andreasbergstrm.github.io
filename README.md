@@ -1,11 +1,12 @@
 # Data Science Projects
 
-# Project 1: Example with Regression
-* Could be anything, salary etc.
-* Feature engineering
-* Simple ML regression or standard linear regression with inference etc.
+# [Project 1: Predicting Wine Quality: Project Overview](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
+* Data Cleaning
+* Statistical inference with Multiple Linear Regression
+* Created a Multinomial Logistic Regression machine learning model to predict wine quality based on characteristics
+* Used K-Fold cross-validation to reach the best model
 
-# Project 2: Example with Classification
+# Project 2: Example with Classification or Regression
 * XGBoosted Decision Trees?
 
 
