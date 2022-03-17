@@ -6,7 +6,7 @@
 * Created a Multinomial Logistic Regression machine learning model to predict wine quality based on characteristics
 * Used K-Fold cross-validation to reach the best model
 
-# Project 2: Example with Classification or Regression
+# [Project 2: Data Science Salary estimator](https://github.com/andreasbergstrm/Data-science-salary-prediction)
 * XGBoosted Decision Trees?
 
 
