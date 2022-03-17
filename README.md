@@ -19,5 +19,5 @@
 * ANN
 
 
-# Project 5: Clustering
+# Project 5: Clustering (unsupervised learning)
 *
