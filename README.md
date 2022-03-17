@@ -15,7 +15,7 @@
 * Advanced SQL queries
 
 
-# Project 4: Deep Learning
+# Project 4: Deep Learning Image Recognition
 * ANN
 
 
