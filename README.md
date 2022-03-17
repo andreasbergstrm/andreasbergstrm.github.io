@@ -1,4 +1,4 @@
-# Project Portfolio
+# Data Science Portfolio
 
 # [Project 1: Wine Quality Classification: Project Overview](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
 * Data Cleaning
