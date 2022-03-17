@@ -7,7 +7,8 @@
 * Used K-Fold cross-validation to reach the best model
 
 # [Project 2: Data Science Salary estimator](https://github.com/andreasbergstrm/Data-science-salary-prediction)
-* XGBoosted Decision Trees?
+* XGBoosted Decision Tree regression or random forest or simple ML regression
+* 
 
 
 # Project 3: Example with SQL
