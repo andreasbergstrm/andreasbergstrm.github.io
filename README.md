@@ -7,12 +7,12 @@
 * Used K-Fold cross-validation to reach the best model
 * Scaled input data to streamline the learning process
 
-![](https://github.com/andreasbergstrm/andreasbergstrm.github.io/blob/main/images/nedladdning%20(1).png)
+![](/images/nedladdning%20(1).png)
 
 # [Project 2: Data Science Salary Estimator](https://github.com/andreasbergstrm/Data-science-salary-prediction)
 * XGBoosted Decision Tree regression or random forest or simple ML regression
 
-![](https://github.com/andreasbergstrm/andreasbergstrm.github.io/blob/main/images/nedladdning.png)
+![](/images/nedladdning.png)
 
 
 # Project 3: Example with SQL
