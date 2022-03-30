@@ -18,3 +18,5 @@
 
 ![](/images/customer_clustering.png)
 
+# [Project 4: Fashion Image Recognition with Convolutional Neural Network](https://github.com/andreasbergstrm/Fashion-Image-Recognition-with-CNN)
+ 
