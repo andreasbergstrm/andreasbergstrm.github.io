@@ -14,14 +14,7 @@
 
 ![](/images/nedladdning.png)
 
+# [Project 3: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
 
-# Project 3: Example with SQL
-* Advanced SQL queries
+![](/images/customer_clustering.png)
 
-
-# Project 4: Deep Learning Image Recognition
-* ANN
-
-
-# Project 5: Clustering (unsupervised learning)
-*
