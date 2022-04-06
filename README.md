@@ -1,4 +1,4 @@
-# Andreas' Data Science Portfolio
+# Andreas's Data Science Portfolio
 
 Hyperlinks to the GitHub repositories are in the project titles.
 # [Project 1: Data Science Salary Prediction](https://github.com/andreasbergstrm/Data-science-salary-prediction)
