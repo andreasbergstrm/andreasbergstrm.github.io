@@ -30,6 +30,7 @@ Hyperlinks to the GitHub repositories are in the project titles.
 
 <img src="https://github.com/andreasbergstrm/Fashion-Image-Recognition-with-CNN/blob/main/fashion_mnist.png" width="597" height="480" />
 
+![](/images/CNN_history.png)
 
 # [Project 4: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
 ## Overview
