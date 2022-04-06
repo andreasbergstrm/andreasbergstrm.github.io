@@ -27,5 +27,7 @@ Hyperlinks to the GitHub repositories are in the project titles.
 
 # [Project 4: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
 ## Overview
-* A short project where I used the unsupervised learning method K-Means clustering to segment customers at a large mall based on age and income data, and visualize the output. I also perform a exploratory data analysis to highlight further characteristics of the customers.  
+* A short project where I used the unsupervised learning method K-Means clustering to segment customers at a large mall based on age and income data, and visualize the output. 
+* I also performed a exploratory data analysis to highlight further characteristics of the customers.
+
 ![](/images/customer_clustering.png)
