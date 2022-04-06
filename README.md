@@ -28,7 +28,7 @@ Hyperlinks to the GitHub repositories are in the project titles.
 * Built a Random Forest Classifier model to compare the CNN results with.
 * Optimized the Random Forest model with RandomizedSearchCV to reach the best model.
 
-<img src="https://github.com/andreasbergstrm/andreasbergstrm.github.io/blob/main/images/fashion_mnist.png" width="597" height="480" />
+![](/images/another_fashion_mnist.png)
 
 ![](/images/CNN_history.png)
 
