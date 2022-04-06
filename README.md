@@ -27,9 +27,8 @@ Hyperlinks to the GitHub repositories are in the project titles.
 * Created a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset.
 * Built a Random Forest Classifier model to compare the CNN results with.
 * Optimized the Random Forest model with RandomizedSearchCV to reach the best model.
-<center>
-![](/images/mnist_fashion.png)
-</center>
+
+![](/images/fashion_mnist_ex.png)
 
 ![](/images/CNN_history.png)
 
