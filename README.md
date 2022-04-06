@@ -27,8 +27,10 @@ Hyperlinks to the GitHub repositories are in the project titles.
 * Created a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset.
 * Built a Random Forest Classifier model to compare the CNN results with.
 * Optimized the Random Forest model with RandomizedSearchCV to reach the best model.
-
+<center>
 ![](/images/mnist_fashion.png)
+</center>
+
 ![](/images/CNN_history.png)
 
 # [Project 4: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
