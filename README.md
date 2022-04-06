@@ -6,7 +6,9 @@
 * Trained and compared three models: Multiple Linear, Lasso and XGBoosted Decision Tree regressions.
 * Optimized hyperparameters with GridSearchCV to reach the best model.
 * Vizualized attributes of the best model (XGBoost), such as feature importance and the decision tree.
-![](/images/nedladdning.png)
+![](/images/sector_dist.png)
+![](/images/feature_importance_xgb.png)
+![](/images/xgb_tree.png)
 
 # [Project 2: Wine Quality Classification: Project Overview](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
 * Data Cleaning
