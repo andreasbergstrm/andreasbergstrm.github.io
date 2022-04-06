@@ -11,14 +11,15 @@ Hyperlinks to the GitHub repositories are in the project titles.
 ![](/images/feature_importance_xgb.png)
 ![](/images/xgb_tree.png)
 
-# [Project 2: Wine Quality Classification: Project Overview](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
-* Data Cleaning
-* Statistical inference with Multiple Linear Regression to find most important characteristics for explaining wine quality
-* Created a Multinomial Logistic Regression machine learning model to predict wine quality based on characteristics
-* Used K-Fold cross-validation to reach the best model
-* Scaled input data to streamline the learning process
+# [Project 2: Wine Quality Classification](https://github.com/andreasbergstrm/DS-Wine-Quality-Project)
+## Overview
+* Created a machine learning classification model to to predict wine quality (67% accuracy), based on the wines' chemical characteristics.
+* Used statistical analysis (multiple linear OLS regression) to highlight key predictors of quality.
+* Built and compared three models: Multinomial Logistic Regression, Decision Tree and Random Forest classifiers.
+* Optimized the models with GridSearchCV to tune hyperparameters and reach the best model.
 
-![](/images/nedladdning%20(1).png)
+![](/images/quality_dist.png)
+![](/images/quality_alcohol_reg.png)
 
 # [Project 3: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
 
