@@ -22,10 +22,10 @@ Hyperlinks to the GitHub repositories are in the project titles.
 ![](/images/quality_dist.png)
 ![](/images/quality_alcohol_reg.png)
 
-# [Project 3: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
+# [Project 3: Fashion Image Recognition with Convolutional Neural Network](https://github.com/andreasbergstrm/Fashion-Image-Recognition-with-CNN)
 ## Overview
-A short project where I use the unsupervised learning method K-Means clustering to segment customers at a large mall based on age and income data, and visualize the output. I also perform a exploratory data analysis to highlight further characteristics of the customers.  
-![](/images/customer_clustering.png)
 
-# [Project 4: Fashion Image Recognition with Convolutional Neural Network](https://github.com/andreasbergstrm/Fashion-Image-Recognition-with-CNN)
- 
+# [Project 4: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
+## Overview
+A short project where I used the unsupervised learning method K-Means clustering to segment customers at a large mall based on age and income data, and visualize the output. I also perform a exploratory data analysis to highlight further characteristics of the customers.  
+![](/images/customer_clustering.png)
