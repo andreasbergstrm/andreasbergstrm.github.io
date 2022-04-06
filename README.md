@@ -29,7 +29,6 @@ Hyperlinks to the GitHub repositories are in the project titles.
 * Optimized the Random Forest model with RandomizedSearchCV to reach the best model.
 
 ![](/images/mnist_fashion.png)
-
 ![](/images/CNN_history.png)
 
 # [Project 4: K-Means Clustering for Customer Segmentation](https://github.com/andreasbergstrm/K-Means-Clustering-for-Customer-Segmentation)
