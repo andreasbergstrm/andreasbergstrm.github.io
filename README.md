@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Andreas' Data Science Portfolio
 
 # [Project 1: Data Science Salary Prediction: Project Overview](https://github.com/andreasbergstrm/Data-science-salary-prediction)
 * Built a machine learning model to predict average salary of data scientists in the US (RMSE ~ $14K), based on data from Glassdoor.
