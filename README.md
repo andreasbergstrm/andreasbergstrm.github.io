@@ -1,7 +1,8 @@
 # Andreas' Data Science Portfolio
 
 Hyperlinks to the GitHub repositories are in the project titles.
-# [Project 1: Data Science Salary Prediction: Project Overview](https://github.com/andreasbergstrm/Data-science-salary-prediction)
+# [Project 1: Data Science Salary Prediction](https://github.com/andreasbergstrm/Data-science-salary-prediction)
+## Overview
 * Built a machine learning model to predict average salary of data scientists in the US (RMSE ~ $14K), based on data from Glassdoor.
 * Engineered features by creating new variables, using one-hot and numerical encoding for categorical variables and more.
 * Trained and compared three models: Multiple Linear, Lasso and XGBoosted Decision Tree regressions.
